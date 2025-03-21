@@ -1,8 +1,4 @@
 const Carrusel =()=>{
-
-
-    
-
     return(
         
         <div id="carouselExampleIndicators" class="carousel slide">

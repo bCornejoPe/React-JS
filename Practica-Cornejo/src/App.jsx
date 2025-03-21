@@ -6,6 +6,17 @@ import Badge from './components/Badge'
 import Carrusel from './components/Carrusel'
 import Progress from './components/Progress'
 import Toast from './components/Toast'
+import Example from './components/Example'
+import ColorPicket from './components/Colopiket'
+import MultipleMenu from './components/MultipleMenu'
+import Deslizable from './components/Deslizable'
+import Indeterminate from './components/IndeterminatedCheked'
+import CheckButon from './components/ChekoxButton'
+import RangeOverview from './components/RangeOver'
+import Wraping from './components/Wraping'
+import MultiV from './components/MultipleImputs'
+import ButoGrup from './components/ButtonGrup'
+
 
 function App() {
   
@@ -36,7 +47,36 @@ function App() {
       <br/>
 
       <Toast/>
+      <br/>
 
+      <Example/>
+      <br/>
+
+      <ColorPicket/>
+      <br/>
+
+      <MultipleMenu/> 
+      <br/>
+
+      <Deslizable/>
+      <br/>
+
+      <Indeterminate/>
+      <br/>
+
+      <CheckButon/>
+      <br/>
+
+      <RangeOverview/>
+      <br/>
+
+      <Wraping/>
+      <br/>
+
+      <MultiV/>
+      <br/>
+
+  <ButoGrup/>
     
     </>
   )
